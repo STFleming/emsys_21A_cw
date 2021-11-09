@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="124.08942mm"
+   height="193.35291mm"
+   viewBox="0 0 124.08942 193.3529"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="bin_protocol.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="477.64317"
+     inkscape:cy="880.75614"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1918"
+     inkscape:window-height="1057"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     scale-x="0.7" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(30.049523,-46.007747)">
+    <g
+       id="g1593"
+       transform="matrix(1.5,0,0,1.5,-15.997594,-71.342101)">
+      <rect
+         y="78.515732"
+         x="-9.0854483"
+         height="128.40631"
+         width="82.230644"
+         id="rect1444"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.56499994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+      <rect
+         y="78.460373"
+         x="-9.1408043"
+         height="128.46167"
+         width="82.286011"
+         id="rect815"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.42624781;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+      <rect
+         y="78.515732"
+         x="-9.0854483"
+         height="6.7368546"
+         width="82.139832"
+         id="rect885"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.56499994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+      <text
+         id="text889"
+         y="82.434814"
+         x="-6.0851045"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-size:2.82222223px;stroke-width:0.26458332"
+           y="82.434814"
+           x="-6.0851045"
+           id="tspan887"
+           sodipodi:role="line"><tspan
+   id="tspan1041"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Bold'">dotDeviceID</tspan> Bytes (0 - 3)</tspan></text>
+      <rect
+         y="85.252586"
+         x="-9.0854483"
+         height="6.7368546"
+         width="82.139832"
+         id="rect885-2"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.565;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+      <text
+         id="text889-9"
+         y="89.171669"
+         x="-6.4630771"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-size:2.82222223px;stroke-width:0.26458332"
+           y="89.171669"
+           x="-6.4630771"
+           id="tspan887-1"
+           sodipodi:role="line"><tspan
+   id="tspan1043"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Bold'">dotDeviceID</tspan> Bytes (4 - 7)</tspan></text>
+      <g
+         transform="translate(1.0690781,-14.911977)"
+         id="g883-2">
+        <rect
+           y="106.90142"
+           x="-10.154531"
+           height="6.736855"
+           width="41.069916"
+           id="rect948-0"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.565;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+        <rect
+           y="106.90142"
+           x="30.915388"
+           height="6.736855"
+           width="41.069916"
+           id="rect948-6-6"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.56500006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+        <rect
+           y="113.63828"
+           x="-10.15453"
+           height="6.736855"
+           width="41.069916"
+           id="rect948-0-2"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.56500006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+        <rect
+           y="113.63828"
+           x="30.915394"
+           height="6.736855"
+           width="41.069916"
+           id="rect948-6-6-0"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.56500006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+        <rect
+           y="120.37514"
+           x="-10.15453"
+           height="6.736855"
+           width="41.069916"
+           id="rect948-0-2-2"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.56500006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+        <rect
+           y="120.37514"
+           x="30.915394"
+           height="6.736855"
+           width="41.069916"
+           id="rect948-6-6-0-8"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.56500006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+        <text
+           id="text889-9-2-2-9"
+           y="124.21059"
+           x="-7.8013115"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-size:2.82222223px;stroke-width:0.26458332"
+             y="124.21059"
+             x="-7.8013115"
+             id="tspan887-1-6-3-7"
+             sodipodi:role="line"><tspan
+   id="tspan1045-7-3"
+   style="font-weight:bold;font-size:2.82222223px;stroke-width:0.26458332">timestamp1 </tspan>Bytes (16 - 17)</tspan></text>
+        <text
+           id="text889-9-2-2-5-6"
+           y="124.41219"
+           x="32.954098"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-size:2.82222223px;stroke-width:0.26458332"
+             y="124.41219"
+             x="32.954098"
+             id="tspan887-1-6-3-9-1"
+             sodipodi:role="line"><tspan
+   id="tspan1045-7-2-2"
+   style="font-weight:bold;font-size:2.82222223px;stroke-width:0.26458332">value1 </tspan>Bytes (18 - 19)</tspan></text>
+        <rect
+           y="127.11199"
+           x="-10.154522"
+           height="6.736855"
+           width="41.069916"
+           id="rect948-0-2-9"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.56500006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+        <rect
+           y="127.11199"
+           x="30.915401"
+           height="6.736855"
+           width="41.069916"
+           id="rect948-6-6-0-3"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.56500006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+        <text
+           id="text889-9-2-2-1"
+           y="130.94743"
+           x="-7.8013039"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-size:2.82222223px;stroke-width:0.26458332"
+             y="130.94743"
+             x="-7.8013039"
+             id="tspan887-1-6-3-94"
+             sodipodi:role="line"><tspan
+   id="tspan1045-7-7"
+   style="font-weight:bold;font-size:2.82222223px;stroke-width:0.26458332">timestamp2 </tspan>Bytes (20 - 21)</tspan></text>
+        <text
+           id="text889-9-2-2-5-8"
+           y="131.14902"
+           x="32.954105"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-size:2.82222223px;stroke-width:0.26458332"
+             y="131.14902"
+             x="32.954105"
+             id="tspan887-1-6-3-9-4"
+             sodipodi:role="line"><tspan
+   id="tspan1045-7-2-5"
+   style="font-weight:bold;font-size:2.82222223px;stroke-width:0.26458332">value2 </tspan>Bytes (22 - 23)</tspan></text>
+        <rect
+           y="133.84885"
+           x="-10.154518"
+           height="6.736855"
+           width="41.069916"
+           id="rect948-0-2-0"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.56500006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+        <rect
+           y="133.84885"
+           x="30.915409"
+           height="6.736855"
+           width="41.069916"
+           id="rect948-6-6-0-36"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.56500006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+        <text
+           id="text889-9-2-2-10"
+           y="137.6843"
+           x="-7.8012962"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-size:2.82222223px;stroke-width:0.26458332"
+             y="137.6843"
+             x="-7.8012962"
+             id="tspan887-1-6-3-6"
+             sodipodi:role="line"><tspan
+   id="tspan1045-7-32"
+   style="font-weight:bold;font-size:2.82222223px;stroke-width:0.26458332">timestamp3 </tspan>Bytes (24 - 25)</tspan></text>
+        <text
+           id="text889-9-2-2-5-0"
+           y="137.88588"
+           x="32.954105"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-size:2.82222223px;stroke-width:0.26458332"
+             y="137.88588"
+             x="32.954105"
+             id="tspan887-1-6-3-9-6"
+             sodipodi:role="line"><tspan
+   id="tspan1045-7-2-1"
+   style="font-weight:bold;font-size:2.82222223px;stroke-width:0.26458332">value3 </tspan>Bytes (26 - 27)</tspan></text>
+        <rect
+           y="140.58571"
+           x="-10.15453"
+           height="6.736855"
+           width="41.069916"
+           id="rect948-0-2-5"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.56500006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+        <rect
+           y="140.58571"
+           x="30.915398"
+           height="6.736855"
+           width="41.069916"
+           id="rect948-6-6-0-5"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.56500006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+        <text
+           id="text889-9-2-2-4"
+           y="144.42116"
+           x="-7.8013077"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-size:2.82222223px;stroke-width:0.26458332"
+             y="144.42116"
+             x="-7.8013077"
+             id="tspan887-1-6-3-76"
+             sodipodi:role="line"><tspan
+   id="tspan1045-7-5"
+   style="font-weight:bold;font-size:2.82222223px;stroke-width:0.26458332">timestamp4 </tspan>Bytes (28 - 29)</tspan></text>
+        <text
+           id="text889-9-2-2-5-69"
+           y="144.62276"
+           x="32.954094"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-size:2.82222223px;stroke-width:0.26458332"
+             y="144.62276"
+             x="32.954094"
+             id="tspan887-1-6-3-9-3"
+             sodipodi:role="line"><tspan
+   id="tspan1045-7-2-7"
+   style="font-weight:bold;font-size:2.82222223px;stroke-width:0.26458332">value4 </tspan>Bytes (30 - 31)</tspan></text>
+        <rect
+           y="147.32257"
+           x="-10.154514"
+           height="6.736855"
+           width="41.069916"
+           id="rect948-0-2-4"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.56500006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+        <rect
+           y="147.32257"
+           x="30.915413"
+           height="6.736855"
+           width="41.069916"
+           id="rect948-6-6-0-52"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.56500006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+        <text
+           id="text889-9-2-2-54"
+           y="151.15802"
+           x="-7.8012924"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-size:2.82222223px;stroke-width:0.26458332"
+             y="151.15802"
+             x="-7.8012924"
+             id="tspan887-1-6-3-74"
+             sodipodi:role="line"><tspan
+   id="tspan1045-7-4"
+   style="font-weight:bold;font-size:2.82222223px;stroke-width:0.26458332">timestamp5 </tspan>Bytes (32 - 33)</tspan></text>
+        <text
+           id="text889-9-2-2-5-3"
+           y="151.35962"
+           x="32.954117"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-size:2.82222223px;stroke-width:0.26458332"
+             y="151.35962"
+             x="32.954117"
+             id="tspan887-1-6-3-9-0"
+             sodipodi:role="line"><tspan
+   id="tspan1045-7-2-78"
+   style="font-weight:bold;font-size:2.82222223px;stroke-width:0.26458332">value5 </tspan>Bytes (34 - 35)</tspan></text>
+        <rect
+           y="154.05943"
+           x="-10.154503"
+           height="6.736855"
+           width="41.069916"
+           id="rect948-0-2-6"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.56500006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+        <rect
+           y="154.05943"
+           x="30.915421"
+           height="6.736855"
+           width="41.069916"
+           id="rect948-6-6-0-88"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.56500006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+        <text
+           id="text889-9-2-2-43"
+           y="157.89488"
+           x="-7.8012772"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-size:2.82222223px;stroke-width:0.26458332"
+             y="157.89488"
+             x="-7.8012772"
+             id="tspan887-1-6-3-1"
+             sodipodi:role="line"><tspan
+   id="tspan1045-7-49"
+   style="font-weight:bold;font-size:2.82222223px;stroke-width:0.26458332">timestamp6 </tspan>Bytes (36 - 37)</tspan></text>
+        <text
+           id="text889-9-2-2-5-2"
+           y="158.09647"
+           x="32.954124"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-size:2.82222223px;stroke-width:0.26458332"
+             y="158.09647"
+             x="32.954124"
+             id="tspan887-1-6-3-9-06"
+             sodipodi:role="line"><tspan
+   id="tspan1045-7-2-8"
+   style="font-weight:bold;font-size:2.82222223px;stroke-width:0.26458332">value6 </tspan>Bytes (38 - 39)</tspan></text>
+        <rect
+           y="160.7963"
+           x="-10.154495"
+           height="6.736855"
+           width="41.069916"
+           id="rect948-0-2-92"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.56500006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+        <rect
+           y="160.7963"
+           x="30.915421"
+           height="6.736855"
+           width="41.069916"
+           id="rect948-6-6-0-6"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.56500006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+        <text
+           id="text889-9-2-2-6"
+           y="164.63174"
+           x="-7.8012772"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-size:2.82222223px;stroke-width:0.26458332"
+             y="164.63174"
+             x="-7.8012772"
+             id="tspan887-1-6-3-4"
+             sodipodi:role="line"><tspan
+   id="tspan1045-7-9"
+   style="font-weight:bold;font-size:2.82222223px;stroke-width:0.26458332">timestamp7 </tspan>Bytes (40 - 41)</tspan></text>
+        <text
+           id="text889-9-2-2-5-5"
+           y="164.83333"
+           x="32.954132"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-size:2.82222223px;stroke-width:0.26458332"
+             y="164.83333"
+             x="32.954132"
+             id="tspan887-1-6-3-9-04"
+             sodipodi:role="line"><tspan
+   id="tspan1045-7-2-87"
+   style="font-weight:bold;font-size:2.82222223px;stroke-width:0.26458332">value7 </tspan>Bytes (42 - 43)</tspan></text>
+        <rect
+           y="167.53316"
+           x="-10.154495"
+           height="6.736855"
+           width="41.069916"
+           id="rect948-0-2-1"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.56500006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+        <rect
+           y="167.53316"
+           x="30.915428"
+           height="6.736855"
+           width="41.069916"
+           id="rect948-6-6-0-7"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.56500006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+        <text
+           id="text889-9-2-2-2"
+           y="171.36861"
+           x="-7.8012772"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-size:2.82222223px;stroke-width:0.26458332"
+             y="171.36861"
+             x="-7.8012772"
+             id="tspan887-1-6-3-72"
+             sodipodi:role="line"><tspan
+   id="tspan1045-7-26"
+   style="font-weight:bold;font-size:2.82222223px;stroke-width:0.26458332">timestamp8 </tspan>Bytes (44 - 45)</tspan></text>
+        <text
+           id="text889-9-2-2-5-1"
+           y="171.57019"
+           x="32.954132"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-size:2.82222223px;stroke-width:0.26458332"
+             y="171.57019"
+             x="32.954132"
+             id="tspan887-1-6-3-9-061"
+             sodipodi:role="line"><tspan
+   id="tspan1045-7-2-59"
+   style="font-weight:bold;font-size:2.82222223px;stroke-width:0.26458332">value8 </tspan>Bytes (46 - 47)</tspan></text>
+        <rect
+           y="174.27002"
+           x="-10.154495"
+           height="6.736855"
+           width="41.069916"
+           id="rect948-0-2-49"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.56500006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+        <rect
+           y="174.27002"
+           x="30.915428"
+           height="6.736855"
+           width="41.069916"
+           id="rect948-6-6-0-0"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.56500006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+        <text
+           id="text889-9-2-2-91"
+           y="178.10547"
+           x="-7.8012772"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-size:2.82222223px;stroke-width:0.26458332"
+             y="178.10547"
+             x="-7.8012772"
+             id="tspan887-1-6-3-77"
+             sodipodi:role="line"><tspan
+   id="tspan1045-7-1"
+   style="font-weight:bold;font-size:2.82222223px;stroke-width:0.26458332">timestamp9 </tspan>Bytes (48 - 49)</tspan></text>
+        <text
+           id="text889-9-2-2-5-15"
+           y="178.30705"
+           x="32.954124"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-size:2.82222223px;stroke-width:0.26458332"
+             y="178.30705"
+             x="32.954124"
+             id="tspan887-1-6-3-9-9"
+             sodipodi:role="line"><tspan
+   id="tspan1045-7-2-77"
+   style="font-weight:bold;font-size:2.82222223px;stroke-width:0.26458332">value9 </tspan>Bytes (50 - 51)</tspan></text>
+        <rect
+           y="181.00688"
+           x="-10.154488"
+           height="6.736855"
+           width="41.069916"
+           id="rect948-0-2-67"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.56500006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+        <rect
+           y="181.00688"
+           x="30.915443"
+           height="6.736855"
+           width="41.069916"
+           id="rect948-6-6-0-365"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.56500006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+        <text
+           id="text889-9-2-2-63"
+           y="184.84233"
+           x="-7.8012619"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-size:2.82222223px;stroke-width:0.26458332"
+             y="184.84233"
+             x="-7.8012619"
+             id="tspan887-1-6-3-948"
+             sodipodi:role="line"><tspan
+   id="tspan1045-7-12"
+   style="font-weight:bold;font-size:2.82222223px;stroke-width:0.26458332">timestamp10 </tspan>Bytes (52 - 53)</tspan></text>
+        <text
+           id="text889-9-2-2-5-9"
+           y="185.04393"
+           x="32.954147"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-size:2.82222223px;stroke-width:0.26458332"
+             y="185.04393"
+             x="32.954147"
+             id="tspan887-1-6-3-9-39"
+             sodipodi:role="line"><tspan
+   id="tspan1045-7-2-0"
+   style="font-weight:bold;font-size:2.82222223px;stroke-width:0.26458332">value10 </tspan>Bytes (54 - 55)</tspan></text>
+        <rect
+           y="187.74374"
+           x="-10.154472"
+           height="6.736855"
+           width="41.069916"
+           id="rect948-0-2-8"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.56500006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+        <rect
+           y="187.74374"
+           x="30.915451"
+           height="6.736855"
+           width="41.069916"
+           id="rect948-6-6-0-85"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.56500006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+        <text
+           id="text889-9-2-2-0"
+           y="191.57919"
+           x="-7.8012466"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-size:2.82222223px;stroke-width:0.26458332"
+             y="191.57919"
+             x="-7.8012466"
+             id="tspan887-1-6-3-96"
+             sodipodi:role="line"><tspan
+   id="tspan1045-7-38"
+   style="font-weight:bold;font-size:2.82222223px;stroke-width:0.26458332">timestamp11 </tspan>Bytes (56 - 57)</tspan></text>
+        <text
+           id="text889-9-2-2-5-56"
+           y="191.78078"
+           x="32.954155"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-size:2.82222223px;stroke-width:0.26458332"
+             y="191.78078"
+             x="32.954155"
+             id="tspan887-1-6-3-9-11"
+             sodipodi:role="line"><tspan
+   id="tspan1045-7-2-598"
+   style="font-weight:bold;font-size:2.82222223px;stroke-width:0.26458332">value11 </tspan>Bytes (58 - 59)</tspan></text>
+        <rect
+           y="194.48061"
+           x="-10.154472"
+           height="6.736855"
+           width="41.069916"
+           id="rect948-0-2-48"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.56500006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+        <rect
+           y="194.48061"
+           x="30.915451"
+           height="6.736855"
+           width="41.069916"
+           id="rect948-6-6-0-1"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.56500006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+        <text
+           id="text889-9-2-2-03"
+           y="198.31606"
+           x="-7.8012543"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-size:2.82222223px;stroke-width:0.26458332"
+             y="198.31606"
+             x="-7.8012543"
+             id="tspan887-1-6-3-0"
+             sodipodi:role="line"><tspan
+   id="tspan1045-7-44"
+   style="font-weight:bold;font-size:2.82222223px;stroke-width:0.26458332">timestamp12 </tspan>Bytes (60 - 61)</tspan></text>
+        <text
+           id="text889-9-2-2-5-4"
+           y="198.51765"
+           x="32.954147"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-size:2.82222223px;stroke-width:0.26458332"
+             y="198.51765"
+             x="32.954147"
+             id="tspan887-1-6-3-9-47"
+             sodipodi:role="line"><tspan
+   id="tspan1045-7-2-6"
+   style="font-weight:bold;font-size:2.82222223px;stroke-width:0.26458332">value12 </tspan>Bytes (62 - 63)</tspan></text>
+        <rect
+           y="201.21747"
+           x="-10.154472"
+           height="6.736855"
+           width="41.069916"
+           id="rect948-0-2-3"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.56500006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+        <rect
+           y="201.21747"
+           x="30.915451"
+           height="6.736855"
+           width="41.069916"
+           id="rect948-6-6-0-17"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.56500006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+        <text
+           id="text889-9-2-2-59"
+           y="205.05292"
+           x="-7.8012543"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-size:2.82222223px;stroke-width:0.26458332"
+             y="205.05292"
+             x="-7.8012543"
+             id="tspan887-1-6-3-62"
+             sodipodi:role="line"><tspan
+   id="tspan1045-7-17"
+   style="font-weight:bold;font-size:2.82222223px;stroke-width:0.26458332">timestamp13 </tspan>Bytes (64 - 65)</tspan></text>
+        <text
+           id="text889-9-2-2-5-85"
+           y="205.2545"
+           x="32.954155"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-size:2.82222223px;stroke-width:0.26458332"
+             y="205.2545"
+             x="32.954155"
+             id="tspan887-1-6-3-9-7"
+             sodipodi:role="line"><tspan
+   id="tspan1045-7-2-4"
+   style="font-weight:bold;font-size:2.82222223px;stroke-width:0.26458332">value13 </tspan>Bytes (66 - 67)</tspan></text>
+        <rect
+           y="207.95433"
+           x="-10.154465"
+           height="6.736855"
+           width="41.069916"
+           id="rect948-0-2-18"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.56500006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+        <rect
+           y="207.95433"
+           x="30.915459"
+           height="6.736855"
+           width="41.069916"
+           id="rect948-6-6-0-59"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.56500006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+        <text
+           id="text889-9-2-2-7"
+           y="211.78978"
+           x="-7.8012466"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-size:2.82222223px;stroke-width:0.26458332"
+             y="211.78978"
+             x="-7.8012466"
+             id="tspan887-1-6-3-5"
+             sodipodi:role="line"><tspan
+   id="tspan1045-7-388"
+   style="font-weight:bold;font-size:2.82222223px;stroke-width:0.26458332">timestamp14 </tspan>Bytes (68 - 69)</tspan></text>
+        <text
+           id="text889-9-2-2-5-31"
+           y="211.99136"
+           x="32.954163"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-size:2.82222223px;stroke-width:0.26458332"
+             y="211.99136"
+             x="32.954163"
+             id="tspan887-1-6-3-9-8"
+             sodipodi:role="line"><tspan
+   id="tspan1045-7-2-9"
+   style="font-weight:bold;font-size:2.82222223px;stroke-width:0.26458332">value14 </tspan>Bytes (70 - 71)</tspan></text>
+        <rect
+           y="214.69119"
+           x="-10.154457"
+           height="6.736855"
+           width="41.069916"
+           id="rect948-0-2-64"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.56500006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+        <rect
+           y="214.69119"
+           x="30.915474"
+           height="6.736855"
+           width="41.069916"
+           id="rect948-6-6-0-33"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.56500006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+        <text
+           id="text889-9-2-2-3"
+           y="218.52664"
+           x="-7.8012314"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-size:2.82222223px;stroke-width:0.26458332"
+             y="218.52664"
+             x="-7.8012314"
+             id="tspan887-1-6-3-8"
+             sodipodi:role="line"><tspan
+   id="tspan1045-7-6"
+   style="font-weight:bold;font-size:2.82222223px;stroke-width:0.26458332">timestamp15 </tspan>Bytes (72 - 73)</tspan></text>
+        <text
+           id="text889-9-2-2-5-04"
+           y="218.72823"
+           x="32.954178"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-size:2.82222223px;stroke-width:0.26458332"
+             y="218.72823"
+             x="32.954178"
+             id="tspan887-1-6-3-9-88"
+             sodipodi:role="line"><tspan
+   id="tspan1045-7-2-89"
+   style="font-weight:bold;font-size:2.82222223px;stroke-width:0.26458332">value15 </tspan>Bytes (74 - 75)</tspan></text>
+      </g>
+      <text
+         id="text889-9-2"
+         y="96.110962"
+         x="-6.5272765"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-size:2.82222223px;stroke-width:0.26458332"
+           y="96.110962"
+           x="-6.5272765"
+           id="tspan887-1-6"
+           sodipodi:role="line"><tspan
+   id="tspan1045"
+   style="font-weight:bold;font-size:2.82222223px">command </tspan>Bytes (8 - 9)</tspan></text>
+      <text
+         id="text889-9-2-7"
+         y="96.136147"
+         x="34.138844"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-size:2.82222223px;stroke-width:0.26458332"
+           y="96.136147"
+           x="34.138844"
+           id="tspan887-1-6-9"
+           sodipodi:role="line"><tspan
+   id="tspan1047"
+   style="font-weight:bold;font-size:2.82222223px">average</tspan> Bytes (10 - 11)</tspan></text>
+      <text
+         id="text889-9-2-2"
+         y="102.56175"
+         x="-6.7322311"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-size:2.82222223px;stroke-width:0.26458332"
+           y="102.56175"
+           x="-6.7322311"
+           id="tspan887-1-6-3"
+           sodipodi:role="line"><tspan
+   id="tspan1045-7"
+   style="font-weight:bold;font-size:2.82222223px;stroke-width:0.26458332">timestamp0 </tspan>Bytes (12 - 13)</tspan></text>
+      <text
+         id="text889-9-2-2-5"
+         y="102.76334"
+         x="34.023174"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-size:2.82222223px;stroke-width:0.26458332"
+           y="102.76334"
+           x="34.023174"
+           id="tspan887-1-6-3-9"
+           sodipodi:role="line"><tspan
+   id="tspan1045-7-2"
+   style="font-weight:bold;font-size:2.82222223px;stroke-width:0.26458332">value0 </tspan>Bytes (14 - 15)</tspan></text>
+    </g>
+  </g>
+</svg>
