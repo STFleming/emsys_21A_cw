@@ -227,7 +227,13 @@ To get power measurements, you need to submit your `.ino` file to me. Please sen
 
 The following is an example of what I will email you back:
 
-![](imgs/power.png)
+![](imgs/pow_example.png)
+
+This is a graph where the X-axis is the time, I perform an experiment of 100 seconds. The Y-axis is the current that the device is drawing in mA. 
+
+In sleep states the current drawn will be very low and not displayed on this graph. For that reason, I also send you a detailed csv file with the power consumption breakdown that you can analyse in more detail in an application such as excel.
+
+finally I'll send you the overall energy consumption for the experiment. I will also maintain a leader board on the website of the groups with the lowest power consumption. __If you are on the leaderboard this does not guarantee you a high grade, the write up and the process behind the experiments contributes more.__
 
 ## Hints to getting started
 
