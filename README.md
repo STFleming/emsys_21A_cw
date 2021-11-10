@@ -7,13 +7,21 @@ __This project aims to make your device consume as little power as possible, so 
 
 ### Submission guide
 
-Submission for the coursework will be different to the labs. You will still be required to work in your lab groups, however, each member will submit an individual report via canvas.
+Submission for the coursework will be different to the labs. You will still be required to work in your lab groups, however, each member will submit an individual __pdf__ report via canvas.
 
 In the lab you will be building your sensor nodes and then performing experiments to try and reduce the power consumption. To get power measurement readings you'll need to submit your code to me where I will perform the power reading experiment, send back the results to you, and give you some advice on what to further optimise. 
 
-It is essential that you do this early. If you leave gathering power measurements to the last minute then it is likely that I will not be able to gather results for you. 
+It is essential that you do this early. If you leave gathering power measurements to the last minute then it is likely that I will not be able to gather results for you. Feel free to batch multiple experiments to me when you send them and I'll send you a batch of results back. See Section [__Getting power measurements__] at the bottom of this page for how to send requests for power measurements. 
 
 __How to phrase each experiment in your submission?__ 
+
+I would expect you to perform quite a few experiments on your device to try to reduce the power consumption. However, if you try more abitious experiments, such as using the ULP, I will take this into consideration and won't need quite as many.
+
+I would try to phrase each experiment as follows:
+* Experiment idea and hypothesis.
+* Description of implementation and code.
+* Experiment results and evaluation.
+* Reflection on the results.
 
 ## What the central lab server is expecting
 
@@ -42,6 +50,8 @@ This sensor is a one-wire sensor, meaning that we can use a single data pin to c
 I would recomend wiring your TinyPico and DS18B20s as follows, you can use the dupont cables from your logic analyser to connect them up:
 
 ![](imgs/wiring.svg)
+
+__Please take care to wire this up exactly as shown, as if the GND and VCC are the wrong way around the device will break (and get hot)__
 
 * The data line (blue) is connected to GPIO pin 26.
 * The power line (red) is connected to the 3.3v output.
