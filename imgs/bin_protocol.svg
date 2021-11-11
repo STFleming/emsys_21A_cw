@@ -94,7 +94,7 @@
            id="tspan887"
            sodipodi:role="line"><tspan
    id="tspan1041"
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Bold'">dotDeviceID</tspan> Bytes (0 - 3)</tspan></text>
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Bold'">groupID</tspan> Bytes (0 - 3)</tspan></text>
       <rect
          y="85.252586"
          x="-9.0854483"
