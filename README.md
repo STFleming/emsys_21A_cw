@@ -23,6 +23,13 @@ I would try to phrase each experiment as follows:
 * Experiment results and evaluation.
 * Reflection on the results.
 
+### Mark scheme
+
+* Basic unoptimised implementation working. (20%)
+* Power optimisation experiments code/correctness. (30%)
+* Analysis of experimental results. (20%)
+* Quality of writeup. (30%)
+
 ## What the central lab server is expecting
 
 Your TinyPico will communicate with the central lab server to periodically send it data that it has collected from a temperature sensor.
