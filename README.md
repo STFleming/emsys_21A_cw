@@ -159,7 +159,7 @@ They contain your unique device name, the average temperature (you must calculat
 To transfer JSON data to the host server use the following `dotDevice.h` method.
 
 ```C
-dotDevice server_con(ssid, password, ws, "wibble00");
+dotDevice server_con(ssid, password, ws);
 
 void loop() {
    server_con.sendJSON(json_str); // where json_str is a String containing the command payload
@@ -181,10 +181,10 @@ struct data_packet_struct
 #pragma pop(1)
 
 
-dotDevice server_con(ssid, password, ws, "wibble00");
+dotDevice server_con(ssid, password, ws);
 
 void loop() {
-   server_con.sendBIN((char *)data_packet, sizeof(data_packet));
+   server_con.sendBIN((char *)&data_packet, sizeof(data_packet));
 }
 ```
 
