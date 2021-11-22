@@ -201,7 +201,7 @@ The format of the binary protocol is as follows:
 
 * In total, the packed data payload is 76 bytes.  
 * The first 8 bytes are used to pack the dotDevice ID that is unique to your group.
-* The next two bytes (bytes 8-9) are for a command __these should always be set to 1__
+* The next two bytes (bytes 8-9) are for a command __these should always be set to 1 (i.e. b00000001)__
 * the next two bytes (bytes 10-11) are for the average (arithmetic mean) of all the values in the fixed point format specified below.
 * The following bytes contain the 16 temperature readings, where the first 2 bytes are used for the timestamp, and the next 2 bytes are used for the temperature value (in the fixed point notation specified below).
 
