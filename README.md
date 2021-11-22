@@ -23,6 +23,13 @@ I would try to phrase each experiment as follows:
 * Experiment results and evaluation.
 * Reflection on the results.
 
+### Mark scheme
+
+* Basic unoptimised implementation working. (20%)
+* Power optimisation experiments code/correctness. (30%)
+* Analysis of experimental results. (20%)
+* Quality of writeup. (30%)
+
 ## What the central lab server is expecting
 
 Your TinyPico will communicate with the central lab server to periodically send it data that it has collected from a temperature sensor.
@@ -229,7 +236,7 @@ The following is an example of what I will email you back:
 
 ![](imgs/pow_example.png)
 
-This is a graph where the X-axis is the time, I perform an experiment of 100 seconds. The Y-axis is the current that the device is drawing in mA. 
+This is a graph where the X-axis is the time, I perform an experiment of 100 seconds. The Y-axis is the current that the device is drawing in Amps. 
 
 In sleep states the current drawn will be very low and not displayed on this graph. For that reason, I also send you a detailed csv file with the power consumption breakdown that you can analyse in more detail in an application such as excel.
 
