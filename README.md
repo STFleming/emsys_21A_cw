@@ -46,6 +46,9 @@ Your device must take 16 readings in a 30-second window, and __must__ transmit t
 
 The actual measurements within the 30-second window can be spaced however you like. You could, for instance, capture them all as fast as possible at the start of the 30 seconds or space them out evenly over the entire 30 seconds. The choice is yours, but the timestamps associated with each reading must be accurate.
 
+Just like in Lab 2, you should use the following address to send data to the server:  
+__ws://ec2-52-15-138-171.us-east-2.compute.amazonaws.com:1234__
+
 ## The temperature sensor
 
 ![](imgs/ds18b20.png)
@@ -225,7 +228,8 @@ Each group will have a dot associated with it that will change colour based on i
 For the breakdown, each dot represents one of the 16 timestamped measurements, and dotted lines show the average, max, and min temperature values.
 
 To access this page please go to:
-[http://ec2-52-15-138-171.us-east-2.compute.amazonaws.com:4000/](http://ec2-52-15-138-171.us-east-2.compute.amazonaws.com:4000/)
+[http://ec2-52-15-138-171.us-east-2.compute.amazonaws.com:4000/](http://ec2-52-15-138-171.us-east-2.compute.amazonaws.com:4000/)  
+__Please note:__ This is not the same address to which you should send the data too! That can be found in the [What the central lab server is expecting] section.
 
 
 ## Getting power measurements
