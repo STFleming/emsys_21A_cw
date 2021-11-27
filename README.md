@@ -23,6 +23,8 @@ I would try to phrase each experiment as follows:
 * Experiment results and evaluation.
 * Reflection on the results.
 
+I would aim for the submission to be between 1000 - 2000 words, I'll put a hard limit on no more than 3000 words. For each experiment, I'd write a small paragraph at the start specifying what your hypothesis is.  Then another small paragraph discussing the implementation details of each experiment, including some code snippets/diagrams etc... Then the evaluation of each section you should discuss the results of the experiments if your hypothesis was met, and perform some analysis of the results (don't be afraid to dig into the CSV file).
+
 ### Mark scheme
 
 * Basic unoptimised implementation working. (20%)
